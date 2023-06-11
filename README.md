@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a full stack web developer. Currently, learning blockchain development.
+
+My Tech Stack: React.js, Node.js, MongoDB, Tailwindcss, Express.js, Vite, React-Native & RealmDB (for Mobile Apps).
 <!--
 **rekredhead/rekredhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
