@@ -1,19 +1,15 @@
 ### Hi there 👋
 
 I'm a full stack web developer. Currently, learning blockchain development.
+I mainly use JavaScript and Python for my projects.
 
-My Tech Stack: React.js, Node.js, MongoDB, Tailwindcss, Express.js, Vite, React-Native & RealmDB (for Mobile Apps).
-<!--
-**rekredhead/rekredhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building:
+- Web Apps and Websites
+- Automation Tools
+- Web Scraping Tools
+- Backend and Frontend Applications
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Tech Stack:
+- Frontend => React.js - Tailwindcss - Vite
+- Backend => Node.js - MongoDB - Express.js
+- Mobile Dev => React-Native - RealmDB
