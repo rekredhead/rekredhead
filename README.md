@@ -9,7 +9,7 @@ I am capable of building projects such as:
 - Web Scraping Tools
 - Backend and Frontend Applications
 
-# Languages and Tools I use
+## Languages and Tools I use
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -25,7 +25,7 @@ I am capable of building projects such as:
 <hr />
 
 <details>
-<summary><h3>👨‍💻 My Programming Journey </h3></summary>
+<summary><h3>My Programming Journey </h3></summary>
 When I started coding, I used to build and program small robots using Arduino although, I saw it more as a hobby and didn't take it very seriously.
 I used to build Obstacle Avoiding bots, a simple RC car, a mini piano using buttons, etc. to name a few. Since I was working with Arduino, I had to learn about C++ programming, which helped so much in understanding programming concepts as I grew up. I also learned about a few maths concepts like Matrices ( which I never want to look at again ). Building my own projects however the way I wanted, was the reason why I loved it so much.
 Once I turned 17, I decided to focus more on coding and I moved towards Web Development and Blockchain Development, which is where I am currently at.
@@ -35,7 +35,7 @@ Making full stack apps such as a Student Management System and programs to autom
 </details>
 
 <details>
-<summary><h3>👨‍💻 My Interest in the Blockchain Space </h3></summary>
+<summary><h3>My Interest in the Blockchain Space </h3></summary>
 I usually stay up-to-date on the latest crypto and blockchain news and interacting with a few blockchain devs. on LinkedIn.
 When I learned more about the world's financial system and governance, I understood how flawed this system really is. Which is what inspired me to involve with Blockchain Development.
 A Decentralized system where the community has control over the system rather than a specific group of people. A system with transparency, high-security, less governance and the users having ownership of their own data.
