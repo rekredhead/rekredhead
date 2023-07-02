@@ -23,6 +23,7 @@ I am capable of building projects such as:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <hr />
 
+
 <details>
 <summary><h3>My Programming Journey </h3></summary>
 When I started coding, I used to build and program small robots using Arduino although, I saw it more as a hobby and didn't take it very seriously.
