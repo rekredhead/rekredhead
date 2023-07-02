@@ -1,5 +1,5 @@
 # 😄 Rekredhead
-** Developer | Blockchain Enthusiast **
+** `Developer | Blockchain Enthusiast` **
 I am a freelancing full stack web developer. Currently I am in my 3rd Year in University and available for part-time work.
 I am really into programming ( not with Java ) and learning about the Blockchain Space.
 I am capable of building projects such as:
