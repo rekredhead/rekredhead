@@ -22,6 +22,7 @@ I am capable of building projects such as:
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
+<hr />
 
 <details>
 <summary><h3>👨‍💻 My Programming Journey </h3></summary>
@@ -31,6 +32,7 @@ Once I turned 17, I decided to focus more on coding and I moved towards Web Deve
 I realized that Embedded Systems programming was quite a tough field since you need to buy physical hardware and there were not many jobs involved with it (in my country), which is why I moved onto Web Dev.
 Web Dev. was such a new field for me and I had no idea what was going on, I made so many mistakes when building projects. After a few months, I adapted to it well and even learned about backend development.
 Making full stack apps such as a Student Management System and programs to automate my part-time work, gave SO much motivation to continue up this line.
+</details>
 
 <details>
 <summary><h3>👨‍💻 My Interest in the Blockchain Space </h3></summary>
@@ -38,3 +40,4 @@ I usually stay up-to-date on the latest crypto and blockchain news and interacti
 When I learned more about the world's financial system and governance, I understood how flawed this system really is. Which is what inspired me to involve with Blockchain Development.
 A Decentralized system where the community has control over the system rather than a specific group of people. A system with transparency, high-security, less governance and the users having ownership of their own data.
 Seeing how the Blockchain system works, I really want it to succeed and fix the current financial system. Seeing how fast the community is growing and how important for this sort of system to be adopted, I too want to make it successful and be a part of it.
+</details>
