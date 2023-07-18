@@ -22,8 +22,12 @@ I am capable of building projects such as:
 <img align="left" width="40px" style="padding-right:10px;" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px;" title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
-<hr />
 
+## My GitHub Statistics
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rekredhead" alt="My Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekredhead" alt="My Top Languages"/>
+</div>
 
 <details>
 <summary><h3>My Programming Journey </h3></summary>
